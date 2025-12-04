@@ -43,7 +43,9 @@ body {
   max-width: 1500px;              /* match container */
   margin-left: auto;
   margin-right: auto;
+  text-align: center;             /* center-align text */
 }
+
 
 #tm-intro-img {
   background-image: url(../img/chilling-cafe-01.);
